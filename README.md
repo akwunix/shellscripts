@@ -1,6 +1,6 @@
 Hello World!
-ubuntu@tryit:~$ ./test.sh 
+ubuntu@tryit:~$ ./test.sh
 What is your name
-Yuri    
+Yuri
 Hello, Yuri
 ubuntu@tryit:~$
